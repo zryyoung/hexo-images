@@ -1,2 +1,2 @@
 # hexo-images
-## hexo-imagesHexo
+## hexo-images Hexo图片存放
